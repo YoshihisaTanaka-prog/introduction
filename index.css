@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+body {
+  padding: 2rem;
+  font-family: serif;
+}
+
+h2 {
+  margin-block: 0;
+}
+
+h1 {
+  margin-block: 0;
+}
+
+.name {
+  margin: auto;
+}
+
+.name td {
+  text-align: center;
+}
+
+.big {
+  font-size: 2em;
+}
+
+.info td {
+  text-align: left;
+}
